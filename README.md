@@ -1,5 +1,5 @@
 npm install && npm run serve
-|or
+| or |
 yarn install && yarn serve
 
 
